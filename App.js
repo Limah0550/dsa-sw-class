@@ -1,5 +1,5 @@
 function greet(name) {
-   return 'Hello, {Limah003}!';
+   return 'Hello, {Limah003.}!';
 }
 
-console.log(greet('Limah003'));
+console.log(greet('Limah003.'));
